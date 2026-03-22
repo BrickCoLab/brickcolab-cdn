@@ -38,7 +38,7 @@ https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured.png
 > Available Versions: 1.0.0  
 > Documentation: [branding.brickcolab.com](https://branding.brickcolab.com)
 
----
+---  
 
 <a href="https://brickcolab.com">
 <img src="https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png" width="100">
