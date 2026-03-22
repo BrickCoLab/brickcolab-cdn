@@ -1,5 +1,3 @@
-# cdn
-
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
 **BrickCoLab CDN is the recommended CDN for all shared BrickCoLab images, icons, CSS, and JavaScript files.**
