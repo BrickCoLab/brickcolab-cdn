@@ -40,4 +40,6 @@ https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured.png
 
 ---
 
-<a href="https://brickcolab.com"><img src="https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png" width="100"></a>
+<a href="https://brickcolab.com">
+<img src="https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png" width="100">
+</a>
