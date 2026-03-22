@@ -1,6 +1,6 @@
-# CodeAdam CDN
+# BrickCoLab CDN
 
-This repo is used as the CodeAdam Content Delivery Network (CDN) for CodeAdam related assets. 
+This repo is used as the BrickCoLab Content Delivery Network (CDN) for BrickCoLab related assets. 
 
 ---
 
@@ -16,8 +16,8 @@ This repo is hosted using [GitHub Pages](https://pages.github.com/).
 
 ## Repo Resources
 
-* [CodeAdam](https://codeadam.ca)
-* [CodeAdam CDN](https://cdn.codeadam.ca/)
+* [BrickCoLab](https://brickcolab.com)
+* [BrickCoLab CDN](https://cdn.brickcolab.com/)
 
 <br>
 <a href="https://codeadam.ca">
